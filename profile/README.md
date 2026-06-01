@@ -12,7 +12,17 @@ I build systems, manage development workflows, and lead teams. Currently, I am t
 
 ---
 
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BarMaxx&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="150px"/>
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BarMaxx&layout=compact&theme=dark&count_private=true&langs_count=5" alt="Top Languages" height="150px"/>
+</p>
+
+---
+
 ### Links
 
-* **Studio Projects:** [BMProjects on GitHub](https://github.com/YOUR_ORGANIZATION_USERNAME)
-* **My Links:** [Telegram](@BarrMaxx)
+* **Studio Projects:** [BMProjects on GitHub](https://github.com/BMProjects-Development)
+* **My Links:** [Telegram](https://t.me/BarrMaxx)
