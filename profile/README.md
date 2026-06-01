@@ -20,6 +20,9 @@ I build systems, manage development workflows, and lead teams. Currently, I am t
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BarMaxx&layout=compact&theme=dark&count_private=true&langs_count=5" alt="Top Languages" height="150px"/>
 </p>
 
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
+
 ---
 
 ### Links
